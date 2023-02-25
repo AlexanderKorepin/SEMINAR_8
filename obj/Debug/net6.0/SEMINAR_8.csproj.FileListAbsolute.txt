@@ -1,0 +1,15 @@
+C:\Users\aleks\Desktop\GB\SEMINAR\SEMINAR_8\bin\Debug\net6.0\SEMINAR_8.exe
+C:\Users\aleks\Desktop\GB\SEMINAR\SEMINAR_8\bin\Debug\net6.0\SEMINAR_8.deps.json
+C:\Users\aleks\Desktop\GB\SEMINAR\SEMINAR_8\bin\Debug\net6.0\SEMINAR_8.runtimeconfig.json
+C:\Users\aleks\Desktop\GB\SEMINAR\SEMINAR_8\bin\Debug\net6.0\SEMINAR_8.dll
+C:\Users\aleks\Desktop\GB\SEMINAR\SEMINAR_8\bin\Debug\net6.0\SEMINAR_8.pdb
+C:\Users\aleks\Desktop\GB\SEMINAR\SEMINAR_8\obj\Debug\net6.0\SEMINAR_8.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\GB\SEMINAR\SEMINAR_8\obj\Debug\net6.0\SEMINAR_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\GB\SEMINAR\SEMINAR_8\obj\Debug\net6.0\SEMINAR_8.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\GB\SEMINAR\SEMINAR_8\obj\Debug\net6.0\SEMINAR_8.AssemblyInfo.cs
+C:\Users\aleks\Desktop\GB\SEMINAR\SEMINAR_8\obj\Debug\net6.0\SEMINAR_8.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\GB\SEMINAR\SEMINAR_8\obj\Debug\net6.0\SEMINAR_8.dll
+C:\Users\aleks\Desktop\GB\SEMINAR\SEMINAR_8\obj\Debug\net6.0\refint\SEMINAR_8.dll
+C:\Users\aleks\Desktop\GB\SEMINAR\SEMINAR_8\obj\Debug\net6.0\SEMINAR_8.pdb
+C:\Users\aleks\Desktop\GB\SEMINAR\SEMINAR_8\obj\Debug\net6.0\SEMINAR_8.genruntimeconfig.cache
+C:\Users\aleks\Desktop\GB\SEMINAR\SEMINAR_8\obj\Debug\net6.0\ref\SEMINAR_8.dll
